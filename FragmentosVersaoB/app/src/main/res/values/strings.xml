@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentosVersaoB</string>
+    <string name="fragmento1">GPS</string>
+    <string name="fragmento2">Camera v1</string>
+    <string name="fragmento3">Camera v2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
